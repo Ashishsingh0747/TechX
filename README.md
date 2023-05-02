@@ -1,7 +1,7 @@
 # TechX 
 Tech News letter Subscription Page .
 # Technology used 
-HTML
+HTML ,
 CSS
 # link - 
 https://ashishsingh0747.github.io/TechX/
